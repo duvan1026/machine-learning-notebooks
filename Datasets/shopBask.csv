@@ -1,0 +1,7 @@
+juice,cleaning,soda
+milk,juice,cleaning
+juice,detergent,soda
+juice,detergent,soda
+cleaning,soda,milk
+detergent,soda,milk
+juice,detergent,soda
